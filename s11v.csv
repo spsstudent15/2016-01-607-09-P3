@@ -1,0 +1,81 @@
+skill_type,skill
+programming,agent-based Simulation
+programming,ANOVA
+math,Bayes networks
+math,Bayesian Statistics
+programming,Big Data
+programming,BUGS
+programming,C
+math,calculus
+programming,cloud tech
+programming,clustering
+math,continuous Simulation
+math,convex Optimization
+programming,CSS
+programming,DBA
+business,decision trees
+visualization,design
+programming,discrete Simulation
+programming,Distributed Data
+visualization,experimental design
+business,forecasting
+math,general linear model
+math,geographic covariates
+programming,GIS
+business,global Optimization
+visualization,Graphical Models
+programming,Hadoop
+programming,Hive
+programming,HTML
+math,integer Optimization
+programming,JAVA
+programming,JavaScript
+programming,JSON
+math,linear algebra
+programming,Machine Learning
+visualization,Map/Reduce
+visualization,mapping
+math,Math
+programming,Matlab
+math,MCMC
+math,Monte-Carlo Statistics
+math,multinomial modeling
+programming,MySQL
+programming,neural nets
+programming,nix
+programming,NoSQL
+programming,Objective C
+programming,Oracle
+programming,Perl
+programming,Pig
+programming,PostgreSQL
+business,Product Development
+business,project management
+programming,Python
+programming,R
+programming,Rails
+business,real analysis
+programming,RegEx
+programming,Ruby
+programming,SAS 
+programming,Simulation
+communication,social networks
+math,Spatial Statistics
+programming,SPSS
+programming,SQL
+programming,Stata
+visualization,statistical graphics
+math,Statistics
+programming,Structured Data
+business,Surveys and Marketing
+programming,SVM
+business,Systems Administration
+communication,technical writing/publishing
+programming,Teradata
+programming,text mining
+math,time-series analysis
+programming,UNIX 
+programming,Unstructured Data
+visualization,Visualization
+visualization,web-based data-viz
+programming,XML
